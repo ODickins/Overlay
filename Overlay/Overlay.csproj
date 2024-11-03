@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Title>Overlay</Title>
+        <Authors>DickinsDev</Authors>
+        <Description>Overlay one class onto another.</Description>
+        <PackageProjectUrl>https://github.com/ODickins/Overlay</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/ODickins/Overlay/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/ODickins/Overlay</RepositoryUrl>
+        <RepositoryType>Git</RepositoryType>
+    </PropertyGroup>
+
+</Project>
